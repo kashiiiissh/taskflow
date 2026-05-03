@@ -37,11 +37,6 @@ TaskFlow is a full-stack task management application where users can register, l
 
 ---
 
-## 📂 Project Structure
-taskflow/ │ ├── backend/ │   ├── controller/ │   ├── service/ │   ├── repository/ │   ├── entity/ │   └── security/ │ ├── frontend/ │   ├── pages/ │   ├── services/ │   ├── components/ │   └── App.tsx
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 🔹 Backend Setup
